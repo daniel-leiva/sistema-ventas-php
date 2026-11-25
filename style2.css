@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/456/15/HD-wallpaper-black-texture-ultra-aero-patterns-dark-black-pattern-texture.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+table{
+    background-color: white;
+}
+
+.container_titulo{
+    color: black;
+    background-color: #0d6efd;
+    height: 80px;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.titulo{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Noto Serif', serif;
+    text-shadow: -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white, 1px 1px 1px white;
+
+}
+
+ul{
+    background: white;
+}
+
+li{
+    font-weight: bold !important;
+}
+
+button{
+    font-weight: bold !important;
+}
+
+.saludo{
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.conexion{
+    color: white;
+}
+
+.columna_acciones{
+    width: 15%;
+}
+
