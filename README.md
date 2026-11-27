@@ -23,8 +23,8 @@ Aplicación web de gestión comercial y administrativa desarrollada con **PHP** 
 
 ## Contexto y estado del proyecto
 
-- **Contexto:** Proyecto académico de desarrollo web backend/frontend en PHP.
-- **Estado:** Finalizado (archivado para portafolio; el archivo local de conexión `conexion.php` no se incluye en el repositorio por configuración de `.gitignore`).
+- **Contexto:** Proyecto académico de desarrollo web en PHP que conserva su implementación original con fines demostrativos; no está preparado para entornos de producción.
+- **Estado:** Finalizado (archivado para portafolio). El archivo de conexión a la base de datos (`conexion.php`) fue excluido del repositorio por seguridad mediante `.gitignore`.
 
 ## Autor
 
